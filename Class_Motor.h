@@ -3,7 +3,7 @@
 
 #include <AS5600.h>
 #include <math.h>
-#include "I2C_Communication_Methods.h"
+#include "I2C_Communication.h"
 
 class Motor{ 
   uint8_t mode;
