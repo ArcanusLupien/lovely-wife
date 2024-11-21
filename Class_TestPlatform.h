@@ -4,7 +4,7 @@
 #include <LiquidCrystal.h>
 #include <String.h>
 
-#include "I2C_Communication_Methods.h"
+#include "I2C_Communication.h"
 
 class TestPlatform {
   uint8_t throttle, voltage;
