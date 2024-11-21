@@ -1,5 +1,5 @@
 #include "Definitions.h"
-#include "I2C_Communication_Methods.h"
+#include "I2C_Communication.h"
 
 
 #include <avr/io.h>
