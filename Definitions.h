@@ -38,8 +38,11 @@
 #define Motor_mode_Trap 1
 #define Motor_mode_Sine 2
 
+// Controller Pins
 
-// Pins
+// Test Platform Pins
+
+// Motor Pins
 
 #define PWM_Pin_A_high 6  //PD6 // OC0A
 #define PWM_Pin_B_high 9  //PB1 // OC1A
